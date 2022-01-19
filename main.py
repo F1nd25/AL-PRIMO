@@ -1,3 +1,3 @@
 name = "Сидорович"
 bully = name + "Boy next door"
-bulle2 = "Sorry for what?"
+bulle3 = "Sorry for what?"
